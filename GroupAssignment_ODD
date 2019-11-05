@@ -1,0 +1,5 @@
+## ODD Assignment (Group) (Deadline Nov. 5)
+
+- Gather car sales data from ODD website from 2016 until September 2019. You can check example code to gather ODD data and refer to course archive for similar analysis.
+- Do 3 different analyses and draw at least one plot using dplyr and ggplot2 in an RMarkdown file.
+- Upload the file in your Group Progress Journal.
